@@ -34,7 +34,7 @@ The total % amount of drivers who acdcepted bar coupons is 41.19%.
 
  4.Drivers with no kids as passenger and are not widowed have a high acceptance rate.
 
- 5. Drivers below 30 and go to the bar have a high acceptance rate. 
+ 5.Drivers below 30 and go to the bar have a high acceptance rate. 
 
 Coffee House Coupons:
 =====================
