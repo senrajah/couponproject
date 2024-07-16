@@ -26,10 +26,14 @@ Bar Coupons:
 The total % amount of drivers who acdcepted bar coupons is 41.19%. 
 
  1.Drivers who have visited the bar more have a higher rate of accepting the bar coupon. 
+
  2.Drivers older than 25 and went to the bar more than once also have a high chance of accepting a bar coupon.
+
  3.Drivers with no kids as passenger and not work in "Farming, Fishing & Forestry industry" tend to have a high chance of accepting the 
  coupon.
+
  4.Drivers with no kids as passenger and are not widowed have a high acceptance rate.
+
  5. Drivers below 30 and go to the bar have a high acceptance rate. 
 
 Coffee House Coupons:
@@ -45,8 +49,10 @@ Next Steps and Conclusion:
 ==========================
 We can dig deeper into the data and explore other features and bring in more insights for other coupons like Restaurant, Carry-out etc 
 and see whether we can predict the acceptance rate with more accuracy. 
+
 We can do more feature engineering and then feed the features to a logistic regression model and train with the training dataset
 and test them using the testing dataset. 
+
 Once the above step is done, we can feed in new dataset to the model and predict the result and evaluate the accuracy of the model. 
 
 
